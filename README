@@ -1,2 +1,6 @@
 # MATLAB_Skeletonisation
-Skeletonisation - MATL
+
+Skeletonisation - MATLAB
+
+Process the attached image using a skeletonisation algorithm to simplify the ridges (black areas) to one pixel in width.
+Although this can be performed by modifying the distance transform, this algorithm should use morphological processes instead.
